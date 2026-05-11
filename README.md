@@ -1,16 +1,39 @@
-## Hi there 👋
+# Salut ! Moi c'est Narfola 👋
 
-<!--
-**Narfola/Narfola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚗 Du Diagnostic Automobile au Développement Web
+Après **14 ans d'expérience** en tant que technicien diagnostic automobile, j'ai décidé de transposer ma passion pour la résolution de problèmes et l'analyse de systèmes complexes vers le monde du **Développement Web**.
 
-Here are some ideas to get you started:
+> "Identifier une panne réseau sur un véhicule ou débugger une application React demande la même rigueur, la même logique et la même persévérance."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Ce que je maîtrise en ce moment
+*   **Front-end :** HTML5, CSS3, JavaScript (ES6+), React.
+*   **Back-end :** Node.js, MySQL.
+*   **Outils :** Git & GitHub, VS Code, Méthodes Agiles.
+*   **Soft Skills :** Diagnostic de pannes, gestion du stress, relation client, autonomie.
+
+---
+
+### 🚀 Mes Projets Phares
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **[Nom du Projet 1]** | Une application de gestion de... | React, Firebase |
+| **[Nom du Projet 2]** | Un site vitrine dynamique pour... | HTML, Sass, JS |
+| **[Projet "Métier"]** | Un outil de suivi d'entretien auto | PHP, MySQL |
+
+---
+
+### 📊 Statistiques GitHub
+![Stats de Narfola](https://github-readme-stats.vercel.app/api?username=Narfola&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narfola&layout=compact&theme=radical)
+
+---
+
+### 📫 Me contacter
+*   **LinkedIn :** [Lien vers votre profil LinkedIn](https://www.linkedin.com/in/hien-tran33)
+*   **Localisation :** France 🇫🇷
+
+---
+
+*💡 Curiosité : Saviez-vous que les voitures modernes contiennent plus de lignes de code qu'un avion de chasse ? C'est ce qui m'a donné envie de passer de la clé de 12 au clavier !*
