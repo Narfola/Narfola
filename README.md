@@ -19,14 +19,12 @@ Après **14 ans d'expérience** en tant que technicien diagnostic automobile, j'
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
 | **[Nom du Projet 1]** | Une application de gestion de... | React, Firebase |
-| **[Nom du Projet 2]** | Un site vitrine dynamique pour... | HTML, Sass, JS |
-| **[Projet "Métier"]** | Un outil de suivi d'entretien auto | PHP, MySQL |
 
 ---
 
 ### 📫 Me contacter
 *   **LinkedIn :** [Lien vers votre profil LinkedIn](https://www.linkedin.com/in/hien-tran33)
-*   **Localisation :** France 🇫🇷
+*   **Localisation :** Gironde 🇫🇷
 
 ---
 
