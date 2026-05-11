@@ -18,7 +18,7 @@ Après **14 ans d'expérience** en tant que technicien diagnostic automobile, j'
 ### 🚀 Mes Projets Phares
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| **[Nom du Projet 1]** | Une application de gestion de... | React, Firebase |
+| **[AutoMaintenace]** | Une application de gestion des couts entretien d'un vehicule | React, EXPO |
 
 ---
 
