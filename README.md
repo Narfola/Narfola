@@ -24,16 +24,10 @@ Après **14 ans d'expérience** en tant que technicien diagnostic automobile, j'
 
 ---
 
-### 📊 Statistiques GitHub
-![Stats de Narfola](https://github-readme-stats.vercel.app/api?username=Narfola&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narfola&layout=compact&theme=radical)
-
----
-
 ### 📫 Me contacter
 *   **LinkedIn :** [Lien vers votre profil LinkedIn](https://www.linkedin.com/in/hien-tran33)
 *   **Localisation :** France 🇫🇷
 
 ---
 
-*💡 Curiosité : Saviez-vous que les voitures modernes contiennent plus de lignes de code qu'un avion de chasse ? C'est ce qui m'a donné envie de passer de la clé de 12 au clavier !*
+*💡 Curiosité : Saviez-vous que les voitures modernes contiennent plus de lignes de code qu'un avion de chasse ? C'est ce qui m'a donné envie de passer de la clé de 10 au clavier !*
